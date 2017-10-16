@@ -1,6 +1,7 @@
 # Git bomb
 
-A (nearly) uncloneable repo. Make your own git bombs:
+Proof of Concept : Git Bomb 
+Can create you unclonable repo with this py-script
 
 ```python
 #! /usr/bin/env python3
